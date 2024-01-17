@@ -1,20 +1,21 @@
-# My App Project
+# 프로젝트
 
-This is a project that includes both a front-end app (my-app) and a back-end app (my-app-backend).
+프론트엔드 앱(my-app)과 백엔드 앱(my-app-backend)을 모두 포함하는 프로젝트입니다.
+프론트엔드 앱과 백엔드 앱을 함께 깃허브에 올리는 연습을 하기 위한 프로젝트입니다.
 
-## Getting Started
+## 시작하기
 
-To get started, follow these steps:
+시작하려면 다음 단계를 수행합니다:
 
-1. Clone the repository.
-2. Navigate to the `my-app` directory and run `npm install` to install front-end dependencies.
-3. Navigate to the `my-app-backend` directory and build/run the back-end server.
+1. 리포지토리를 복제합니다.
+2. 'my-app' 디렉토리로 이동하여 'npm install'을 실행하여 프론트엔드 종속성을 설치합니다.
+3. my-app-backend' 디렉토리로 이동하여 백엔드 서버를 빌드/실행합니다.
 
-## Usage
+## 사용량
 
-- Front-end app: Open the `my-app` directory and run `npm start`.
-- Back-end app: Open the `my-app-backend` directory and run the server (e.g., `mvn spring-boot:run`).
+- 프론트엔드 앱: my-app 디렉토리를 열고 npm start를 실행합니다.
+- 백엔드 앱: 'my-app-backend' 디렉토리를 열고 서버를 실행합니다(예: 'mvn spring-boot:run').
 
-## License
+## 라이선스
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+이 프로젝트는 MIT 라이센스에 따라 라이센스가 부여됩니다. 자세한 내용은 [LICENSE.md ](LICENSE.md ) 파일을 참조하십시오.
